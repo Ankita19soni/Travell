@@ -2,6 +2,9 @@
 
 Welcome to our travel website, your gateway to an extraordinary world of exploration and adventure! Whether you're a seasoned traveler or embarking on your first voyage, our platform is designed to cater to all your travel needs and aspirations.
 
+![Screenshot (117)](https://github.com/Ankita19soni/Travell/assets/132035991/1f83671d-f73e-4a42-a96e-23d42e08b594)
+
+
 With our user-friendly interface and comprehensive search options, planning your dream vacation has never been easier. Our website boasts a vast array of destinations, ranging from exotic tropical paradises to bustling metropolitan cities, from ancient historical landmarks to breathtaking natural wonders. The world is at your fingertips, and we're here to help you navigate it.
 
 Discovering new horizons and immersing yourself in diverse cultures is a fundamental part of the travel experience, and our website aims to enhance that journey. Through vivid descriptions, captivating images, and firsthand traveler reviews, we bring each destination to life, enabling you to make informed decisions and create unforgettable memories.
